@@ -6,7 +6,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Kristel Jane Gonzales</name>
@@ -14,7 +14,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Fiona Medina</name>
@@ -22,7 +22,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Reina Ann Rowie</name>
@@ -30,7 +30,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Roche Mae Bagolboc</name>
@@ -38,7 +38,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Irish San Jose</name>
@@ -46,7 +46,7 @@
         <yearLevelSection>3BG1</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Kaira Domingo</name>
@@ -54,7 +54,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>fem.jpg</picture>
+        <photo>fem.jpg</photo>
     </user>
     <user>
         <name>Justine Rey Gabriel</name>
@@ -62,7 +62,7 @@
         <yearLevelSection>3BG1</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>"c:\Users\LENOVO\Desktop\Midterm Exam\male.jpeg"</picture>
+        <photo>male.jpeg</photo>
     </user>
      <user>
         <name>Reiner Eusebio</name>
@@ -70,7 +70,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>"c:\Users\LENOVO\Desktop\Midterm Exam\male.jpeg"</picture>
+        <photo>male.jpeg</photo>
     </user>
     <user>
         <name>Israel Alejandrino</name>
@@ -78,7 +78,7 @@
         <yearLevelSection>3BG2</yearLevelSection>
         <adviser>Mrs. Noemi Reyes</adviser>
         <schoolYear>2025-2026</schoolYear>
-        <picture>"c:\Users\LENOVO\Desktop\Midterm Exam\male.jpeg"</picture>
+        <photo>male.jpeg</photo>
     </user>
     
 </libraryUsers>
